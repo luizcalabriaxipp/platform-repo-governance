@@ -1,0 +1,6 @@
+environments:
+  - DEV
+  - STG
+  - PREPROD
+  - UAT
+  - PRODUÇÃO

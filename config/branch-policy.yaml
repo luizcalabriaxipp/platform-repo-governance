@@ -1,0 +1,12 @@
+default_branch: main
+
+required_branches:
+  - develop
+  - stage
+  - preprod
+  - UAT
+
+protection:
+  required_approvals: 1
+  enforce_admins: true
+  block_self_approval: true

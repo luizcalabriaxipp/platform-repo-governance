@@ -1,0 +1,198 @@
+repo,risk_level,risk_score,priority,actions,recommended_execution
+sdi-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+avus-doodba-14,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+k8s-deploy,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+xipp-doodba-18,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+migration,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+auth-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+odoo-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+survey-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+security-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+contract-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+euprotegido-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+socialnetwork-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rh-bff-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+commons-security-xipp,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+commons-xipp,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+sdi-frontend,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+mis-builder,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+reporting-engine,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+xipp-doodba-14,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-registry-bkp,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+euprotegido,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+l10n-brazil,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rules-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+avus-k8s-deploy,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+insurance-carrier-api,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+ee-addons,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+xipp-odoo-addons,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+drive-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+report-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+payment-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+analytics-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+healthcare-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+insurancepricing-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+xipp-aggregator,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+px-app,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+financial-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+movement-api,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rhprotegido-frontend,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+xipp-charts,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+k8s-odoo-operator,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+code-generator-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-flow-repo,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+website,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-analytic,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+web,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+social,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+server-ux,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+dms,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+invoice-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+odoo-migration-analyzer,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+sdi-test-e2e,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+payroll-service,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+migration-analytics,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+account-financial-tools,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+partner-contact,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-addons,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+lp-mais-familia,HIGH,50,P2,"Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+integrator-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-operation-fesp-invoice-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+platform-backend,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-operation-cnu-invoice-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+server-tools,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+crm,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+hr-expense,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+storage,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+queue,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-invoicing,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+bank-payment,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-payment,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+contract,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-closing,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-financial-reporting,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+design-themes,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+multi-company,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rest-framework,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+connector,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+server-backend,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+server-env,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-movement-sulamerica,HIGH,50,P2,"Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-sulamerica-healthcare-authorization,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-bradesco-healthcare-authorization,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-porto-saude-invoice,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-hapvida-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+canalprotegido-frontend,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+pharma,CRITICAL,80,P1,"Migrar master->main | Remover branch master | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-odontoprev-invoice-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-hapvida-invoice,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-commons,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-operation-omint-invoice-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-sulamerica-invoice,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-sulamerica-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-bradesco-webtran-daily,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-metlife-invoice,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+sdi-bff-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+euprotegido-frontend,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-seguros-unimed-invoice-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-bradesco-portal-corretor-invoice,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-bradesco-webtran-monthly,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+config-xipp,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+avus-integration-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+engenere-addons,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+registry-xipp,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+gateway-xipp,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-cnu-healthcare-authorization,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+maioridade-worker,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+movement-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+bff-servicos,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+rpa-operation-amil-invoice,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-amil-movement-insurance-return,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+drive-fronted,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-operation-omint-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+code-review-instructions,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-operation-fesp-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-odontoprev-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-amil-healthcare-authorization,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-movement-amil,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-financial-porto,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+chatbot-proxy,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+server-addons,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+enterprise,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+platform-backend-deploy,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+rpa-operation-cnu-cadastral-position,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+odoo-store-addons,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+nifi-iac,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+nifi-custom-processor-authenticate-avus,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+app-manager,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+flutter-commons-widgets,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+driveconfig-frontend,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+insurancepricing-frontend,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-operation-sulamerica-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-seguros-unimed-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-hapvida-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-amil-cadastral-position,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+prometheus,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+account-frontend,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+migration-code-review-instructions,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-iac,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+account-move-import,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+nifi-sinistro-groovy-scripts,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rules-validation-core,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-financial-sulamerica,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-operation-amil-coparticipation,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+poc_payroll_processor,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+xipp-doodba-17,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+commons-poc,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-excel-to-csv,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rh-test-e2e,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+ci-cd-poc,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+OCB,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+release-deployment,MEDIUM,30,P3,"Remover branch master | Ajustar pipelines e padrões",PLANEJADO
+release-management,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+xipp-odoo-docker,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+nifi-custom-processor-execute-sql-mdb,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-financial-amil,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+release-poc,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+xipp-odoo-demo,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rabbitmq,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+rpa-teste,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-financial-groovy-scripts,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-detect-encoding,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+avusfarma,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+monitoring_loki,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+monitoring_postgres_exporter,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+monitoring_promtail,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rhprotegido.app,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rhfarma,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+platform-k8s,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-json-to-xls,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+doodba-qa,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+xipp-odoo-14,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+rpa-archtype,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+doodba,CRITICAL,120,P1,"Migrar master->main | Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_IMEDIATA
+nifi-custom-processor-fetch-odoo,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+odoo-doodba,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-dynamic-move-sftp,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-dynamic-list-azure-blob-storage,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-pdf-to-xml,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-extended-query-record,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+elk-iac,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+demo-repository,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+config-server-repo,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-dynamic-list-sftp,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+notification-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+account.app,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-get-odoo,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+itext,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+demo-git-flow,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-custom-processor-fetch-sftp-rename,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-additional-libs,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+external-systems-status-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+collaborator.app,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+sdi-frontend-test,HIGH,50,P2,"Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+generative-ai-python-3.8,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+teste-rodrigosilveira,HIGH,50,P2,"Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+site_xipp_vorttex,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+nifi-service,HIGH,70,P2,"Remover branch master | Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO
+xipptech-service-hub,HIGH,50,P2,"Aplicar proteção na main | Ajustar pipelines e padrões",AUTOMACAO_COM_VALIDACAO

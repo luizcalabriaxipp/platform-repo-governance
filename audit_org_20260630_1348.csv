@@ -1,0 +1,6 @@
+repo,default_branch,has_main,has_master,main_protected,branches,environments,compliance
+SNHU-Course-Monitor,main,yes,yes,no,"main","",PARCIAL
+Walmart-Session,main,yes,yes,no,"main","",PARCIAL
+Riot-Client-Session,main,yes,yes,no,"main","",PARCIAL
+Steam-Session,main,yes,yes,no,"main","",PARCIAL
+Steam-Messenger,main,yes,yes,no,"main","",PARCIAL

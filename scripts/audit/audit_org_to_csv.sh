@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-ORG=$(yq '.github.org' config/org.yaml)
+ORG=$(yq -r '.github.org' config/org.yaml)
 OUTPUT="audit_org_$(date +%Y%m%d_%H%M).csv"
 
 echo "repo,default_branch,has_main,has_master,main_protected,branches,environments,compliance" > "$OUTPUT"

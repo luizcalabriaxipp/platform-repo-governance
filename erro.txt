@@ -1,0 +1,47 @@
+#!/bin/bash
+set -e
+
+ORG=$(yq '.github.org' config/org.yaml)
+OUTPUT="audit_org_$(date +%Y%m%d_%H%M).csv"
+
+echo "repo,default_branch,has_main,has_master,main_protected,branches,environments,compliance" > "$OUTPUT"
+
+echo "🔍 Iniciando auditoria da organização: $ORG"
+
+gh repo list "$ORG" --limit 1000 --json name | jq -r '.[].name' | while read repo; do
+
+  echo "➡️ Auditando: $repo"
+
+  default_branch=$(gh api repos/$ORG/$repo --jq '.default_branch')
+
+  gh api repos/$ORG/$repo/branches/main --silent \
+    && has_main=yes || has_main=no
+
+  gh api repos/$ORG/$repo/branches/master --silent \
+    && has_master=yes || has_master=no
+
+  gh api repos/$ORG/$repo/branches/main/protection --silent \
+    && main_protected=yes || main_protected=no
+
+  branches=$(gh api repos/$ORG/$repo/branches --jq '.[].name' | tr '\n' ';' | sed 's/;$//')
+
+  envs=$(gh api repos/$ORG/$repo/environments --silent \
+    && gh api repos/$ORG/$repo/environments --jq '.environments[].name' | tr '\n' ';' | sed 's/;$//' \
+    || echo "none")
+
+  # Avaliação simples de conformidade
+  if [[ "$default_branch" == "main" && "$main_protected" == "yes" && "$has_master" == "no" ]]; then
+    compliance="OK"
+  elif [[ "$default_branch" == "main" ]]; then
+    compliance="PARCIAL"
+  else
+    compliance="NAO_CONFORME"
+  fi
+
+  echo "$repo,$default_branch,$has_main,$has_master,$main_protected,\"$branches\",\"$envs\",$compliance" >> "$OUTPUT"
+
+done
+
+echo "✅ Auditoria finalizada"
+echo "📄 Arquivo gerado: $OUTPUT"
+``
